@@ -39,7 +39,6 @@ python app.py
 Visit the app at: http://localhost:3000
 
 Optional: Add a player parameter to simulate a named roll:
-ruby
 http://localhost:3000/?player=Keerthana
 View traces and metrics live in SigNoz dashboard:
 http://localhost:3301
